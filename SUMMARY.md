@@ -13,5 +13,4 @@
   * [union操作符](unioncao-zuo-fu.md)
   * [排序order by](mysqlpai-xu.md)
   * [分组group by](fen-zu.md)
-* 1
 
